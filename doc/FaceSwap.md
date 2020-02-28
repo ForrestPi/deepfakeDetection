@@ -19,3 +19,8 @@ Consider two images to be used for face swapping as follows :
 ![Face](./pic/003.jpg)
 ### Results after swapping
 ![Face](./pic/004.jpg)
+
+
+
+### total pipeline
+![Face](./pic/005.jpg)
